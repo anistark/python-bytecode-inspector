@@ -24,7 +24,7 @@ Check out the live demo of the tool [here](https://anistark.github.io/python-byt
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/python-bytecode-inspector.git
+   git clone https://github.com/anistark/python-bytecode-inspector.git
    ```
 
 2. Navigate to the project directory:
