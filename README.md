@@ -1,5 +1,7 @@
 # Python Bytecode Inspector
 
+![Screenshot of Python Bytecode Inspector](public/python-inspector.png)
+
 A simple web-based tool built using **React** and **Pyodide** that allows users to input Python code, view its **Abstract Syntax Tree (AST)**, **bytecode**, and **raw bytecode**. This tool helps you understand how Python code is parsed, compiled, and executed at a low level.
 
 ## Features
