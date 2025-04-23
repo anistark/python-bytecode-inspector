@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/python-bytecode-inspector/static/css/main.4acfebc4.css",
+    "main.js": "/python-bytecode-inspector/static/js/main.6cb73ecf.js",
+    "static/js/453.cc71b2a4.chunk.js": "/python-bytecode-inspector/static/js/453.cc71b2a4.chunk.js",
+    "index.html": "/python-bytecode-inspector/index.html",
+    "main.4acfebc4.css.map": "/python-bytecode-inspector/static/css/main.4acfebc4.css.map",
+    "main.6cb73ecf.js.map": "/python-bytecode-inspector/static/js/main.6cb73ecf.js.map",
+    "453.cc71b2a4.chunk.js.map": "/python-bytecode-inspector/static/js/453.cc71b2a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4acfebc4.css",
+    "static/js/main.6cb73ecf.js"
+  ]
+}
