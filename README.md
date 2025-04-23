@@ -10,7 +10,7 @@ A simple web-based tool built using **React** and **Pyodide** that allows users 
 
 ## Demo
 
-Check out the live demo of the tool [here](#).
+Check out the live demo of the tool [here](https://anistark.github.io/python-bytecode-inspector).
 
 ![Screenshot of Python Bytecode Inspector](public/screenshot.png)
 

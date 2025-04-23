@@ -1,6 +1,7 @@
 {
   "name": "python-bytecode-inspector",
-  "version": "0.1.0",
+  "description": "A web application for inspecting Python bytecode.",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
@@ -41,5 +42,22 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "author": {
+    "name": "Kumar Anirudha",
+    "url": "https://anirudha.dev"
+  },
+  "homepage": "https://anistark.github.io/python-bytecode-inspector",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anistark/python-bytecode-inspector.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "python",
+    "bytecode",
+    "inspector",
+    "web",
+    "application"
+  ]
 }
